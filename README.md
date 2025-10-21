@@ -13,7 +13,6 @@ Monorepo containing a Vite React frontend and an Express + MySQL backend.
 
 # Set to your Vite origin
 CORS_ORIGIN=http://localhost:3001
-```
 
  # Install and run:
 ```
@@ -32,5 +31,3 @@ npm run dev   # Vite dev server (check terminal for the exact URL, e.g. http://l
 ```
 
 
-
-```
