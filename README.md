@@ -18,7 +18,6 @@ CORS_ORIGIN=http://localhost:3001
 ```
 cd Store_Rating_app/backend
 npm install
-npm run seed   # creates DB/tables and inserts sample users, stores, ratings
 npm run dev    # starts the API on http://localhost:5000
 ```
 
@@ -29,5 +28,6 @@ cd Store_Rating_app/frontend
 npm install
 npm run dev   # Vite dev server (check terminal for the exact URL, e.g. http://localhost:3001)
 ```
+
 
 
